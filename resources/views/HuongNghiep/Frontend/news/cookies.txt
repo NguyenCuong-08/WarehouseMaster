@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.careerhunter.io	TRUE	/	FALSE	1999999999	chDefaultCurrency	USD
+.careerhunter.io	TRUE	/	FALSE	1999999999	test_ca_session	dapRz%2FSORzQ%2FRVTVcmmhhIVqLwSMiFBzJKZgPMhhpjluuqCyJCIr3z3XTtwZBdL8enzfxh79i6qAJRzNhUevYdRjRO3seeCxs5gTV6LPzl6VrDi5tqRyuIU8XIlPOl%2BRkxt5D9RsCNHCQGD5vnCsbYPvV5jdk7OIMaKlRVf0rj5mwmNFtjP88QOQxJJ7HGFzyP%2Br857HvRlPugEvIAFeW8hVkXU4ki%2FNPGT5%2BqbL77nQEWKt5rqx0t81qedAb8Qq1%2FvtFMXxrZ98cFKZT%2FYDUHlzNSHueyY%3D--G3shZJN4QkFk1pCY--IAmiaVP3gJeQr3rOh99zeg%3D%3D
+www.careerhunter.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+

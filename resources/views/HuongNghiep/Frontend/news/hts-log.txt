@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 May 2024 09:11:27 at https://www.careerhunter.io/careers +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.careerhunter.io/careers -O1 "C:\My Web Sites\news" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:12:04	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.careerhunter.io/careers)
+09:15:19	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn3.careerhunter.io/assets/application_bottom-93d8a0a27799f58aa78e27c62f1927bfc111998fe47b308085b383a581c507ba.css (from https://www.careerhunter.io/careers)
+09:15:39	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.careerhunter.io/tests/personality/take (from https://www.careerhunter.io/tests/personality)
+09:15:39	Error: 	"Not Found" (404) at link https://www.careerhunter.io/GET (from https://www.careerhunter.io/courses)
+09:16:03	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn0.careerhunter.io/assets/upgrade/workers-524464c73c4a8513126f763e4d92a827e706e932b70cc76eed53f614a8659372.png (from https://www.careerhunter.io/upgrade)
+09:16:03	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn3.careerhunter.io/packs/js/upgrade-5890f882c59bbff8af4c.js (from https://www.careerhunter.io/upgrade)
+09:16:03	Warning: 	Retry after error -4 (No data (connection closed)) at link cdn2.careerhunter.io/assets/Counsellors-f55ad3387aaf76ef425fba3f263c30b116cc2d104adf329fb05ec869e560ad2f.png (from https://www.careerhunter.io/group)
+09:16:19	Warning: 	Link https://www.careerhunter.io/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+09:16:22	Warning: 	Retry after error -4 (No data (connection closed)) at link cdn1.careerhunter.io/assets/upgrade/upgrade_man_tablet-fadccbb4542950bf9d3785228dfe2f57810a7df8f9f5d804afdb5e99b673b251.png (from https://cdn1.careerhunter.io/assets/upgrade-273dfa3d7af683de7b8d3a7a3797656f89879a2f916903cad2d90e1ef9c55ed6.css)
+09:16:22	Warning: 	Moved Permanently for cdn2.careerhunter.io/assets/Counsellors-f55ad3387aaf76ef425fba3f263c30b116cc2d104adf329fb05ec869e560ad2f.png
+09:16:22	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn2.careerhunter.io/assets/Counsellors-f55ad3387aaf76ef425fba3f263c30b116cc2d104adf329fb05ec869e560ad2f.png and https://cdn2.careerhunter.io/assets/Counsellors-f55ad3387aaf76ef425fba3f263c30b116cc2d104adf329fb05ec869e560ad2f.png
+09:16:22	Warning: 	Warning moved treated for cdn2.careerhunter.io/assets/Counsellors-f55ad3387aaf76ef425fba3f263c30b116cc2d104adf329fb05ec869e560ad2f.png (real one is https://cdn2.careerhunter.io/assets/Counsellors-f55ad3387aaf76ef425fba3f263c30b116cc2d104adf329fb05ec869e560ad2f.png)
+09:16:27	Warning: 	Moved Permanently for cdn1.careerhunter.io/assets/upgrade/upgrade_man_tablet-fadccbb4542950bf9d3785228dfe2f57810a7df8f9f5d804afdb5e99b673b251.png
+09:16:27	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn1.careerhunter.io/assets/upgrade/upgrade_man_tablet-fadccbb4542950bf9d3785228dfe2f57810a7df8f9f5d804afdb5e99b673b251.png and https://cdn1.careerhunter.io/assets/upgrade/upgrade_man_tablet-fadccbb4542950bf9d3785228dfe2f57810a7df8f9f5d804afdb5e99b673b251.png
+09:16:27	Warning: 	Warning moved treated for cdn1.careerhunter.io/assets/upgrade/upgrade_man_tablet-fadccbb4542950bf9d3785228dfe2f57810a7df8f9f5d804afdb5e99b673b251.png (real one is https://cdn1.careerhunter.io/assets/upgrade/upgrade_man_tablet-fadccbb4542950bf9d3785228dfe2f57810a7df8f9f5d804afdb5e99b673b251.png)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 1 seconds : 204 links scanned, 193 files written (22794637 bytes overall) [18403698 bytes received at 61141 bytes/sec], 5958190 bytes transferred using HTTP compression in 78 files, ratio 20%, 1.9 requests per connection
+(2 errors, 13 warnings, 0 messages)

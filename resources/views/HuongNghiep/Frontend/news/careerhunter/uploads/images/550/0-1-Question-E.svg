@@ -1,0 +1,19 @@
+<svg id="b7d7e43d-ca0f-4c1c-9f58-70cd42c75b6c" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="35.28mm" height="35.28mm" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .b861a71c-60b3-4ac1-811e-ce22ccfde99e {
+        fill: none;
+      }
+
+      .bbab172c-0d40-4908-acc3-a8b77bbbe676 {
+        fill: #cb5ca2;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>0-1-Question-E</title>
+  <rect class="b861a71c-60b3-4ac1-811e-ce22ccfde99e" width="100" height="100"/>
+  <polygon class="bbab172c-0d40-4908-acc3-a8b77bbbe676" points="50 39.79 38.21 60.21 61.79 60.21 50 39.79"/>
+</svg>

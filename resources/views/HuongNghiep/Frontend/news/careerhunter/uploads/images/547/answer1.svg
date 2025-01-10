@@ -1,0 +1,19 @@
+<svg id="a1e97d82-07fd-4105-8b8c-52a55961b8dc" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="35.28mm" height="35.28mm" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .f2e8615c-0d9e-4d6c-bf9d-1a0704c0f2bf {
+        fill: none;
+      }
+
+      .e1e0c122-bbc0-442d-ab37-c3cc80d045dd {
+        fill: #cb5ca2;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>0-1-Answer-C</title>
+  <rect class="f2e8615c-0d9e-4d6c-bf9d-1a0704c0f2bf" width="100" height="100"/>
+  <polygon class="e1e0c122-bbc0-442d-ab37-c3cc80d045dd" points="50 39.79 38.21 60.21 61.79 60.21 50 39.79"/>
+</svg>
